@@ -1,6 +1,7 @@
 # clima_flutter_master
 
-a clima app with flutter using api
+a clima app with flutter using api from https://openweathermap.org/
+
 
 ## Getting Started
 
