@@ -1,0 +1,33 @@
+name: clima_flutter_master
+description: a clima app with flutter using api
+
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+  geolocator: ^6.0.0
+  http: ^0.12.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+  - images/
+
+  fonts:
+  - family: Spartan MB
+    fonts:
+    - asset: fonts/SpartanMB-Black.otf
+      weight: 900
+ 
